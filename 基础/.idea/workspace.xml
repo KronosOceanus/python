@@ -1,7 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="849a4e26-16a4-478f-add3-460361f276d4" name="Default Changelist" comment="" />
+    <list default="true" id="849a4e26-16a4-478f-add3-460361f276d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01背包问题dp/.idea/01背包问题dp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01背包问题dp/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FTP通信软件/.idea/FTP通信软件.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FTP通信软件/ftpClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FTP通信软件/ftpServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLalchemy/.idea/SQLalchemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLalchemy/create.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLalchemy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket编程/.idea/Socket编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket编程/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket编程/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Socket编程/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCP编程/.idea/TCP编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCP编程/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCP编程/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCP编程/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk多窗口/.idea/Tk多窗口.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk多窗口/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk多窗口/myWindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk用户登录/.idea/Tk用户登录.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk用户登录/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk用户登录/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk用户登录/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk电子时钟/.idea/Tk电子时钟.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk电子时钟/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk画图/.idea/Tk画图.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk画图/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk记事本/.idea/Tk记事本.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk记事本/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk音乐播放器/.idea/Tk音乐播放器.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tk音乐播放器/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matplotlib/.idea/matplotlib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matplotlib/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy/.idea/numpy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandas/.idea/pandas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/.idea/scipy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/.idea/statistics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter+pillow屏幕截图/.idea/tkinter+pillow屏幕截图.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tkinter+pillow屏幕截图/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trutle绘图/.idea/trutle绘图.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trutle绘图/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../代理服务器端口映射/.idea/代理服务器端口映射.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../代理服务器端口映射/sockMiddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../代理服务器端口映射/sockMiddle_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../代理服务器端口映射/sockMiddle_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../代理服务器端口映射/关系.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../函数案例/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/.idea/分类爬取网易云音乐歌词.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分类爬取网易云音乐歌词/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划矩阵乘法/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划矩阵乘法/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划矩阵乘法/.idea/动态规划矩阵乘法.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划矩阵乘法/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图形编程/.idea/图形编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图形编程/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../域名解析/.idea/域名解析.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../域名解析/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程编程/.idea/多线程编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程编程/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多进程端口扫描器/.idea/多进程端口扫描器.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多进程端口扫描器/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多进程编程/.idea/多进程编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多进程编程/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../幂集/.idea/幂集.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../幂集/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../整数划分dp/.idea/整数划分dp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../整数划分dp/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最优二叉查找树dp/.idea/最优二叉查找树dp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最优二叉查找树dp/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最长公共子序列dp/.idea/最长公共子序列dp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../最长公共子序列dp/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../演示分治法最近点对/.idea/演示分治法最近点对.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../演示分治法最近点对/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单动画/.idea/简单动画.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单动画/cole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单动画/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.idea/练习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络嗅探器/.idea/网络嗅探器.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络嗅探器/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../蒙特卡罗估计pi/.idea/蒙特卡罗估计pi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../蒙特卡罗估计pi/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../转移矩阵/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/.idea/项目：音乐播放器.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/create_table/create.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/dao/all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/dao/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/dao/userDao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../项目：音乐播放器/surface/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../函数案例/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../函数案例/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../函数案例/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../函数案例/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../序列化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../序列化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../异常处理/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../异常处理/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据库操作/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../数据库操作/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件与文件夹操作/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件与文件夹操作/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件操作/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件操作/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../正则表达式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../正则表达式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../积分/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../积分/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../积分/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../积分/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../积分/.idea/积分.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../积分/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../绘图/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../绘图/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../绘图/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../绘图/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../绘图/.idea/绘图.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../绘图/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../转移矩阵/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../转移矩阵/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../转移矩阵/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../转移矩阵/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +146,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Y0yM5aqWa70Jfw8uk2j6kVarsV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

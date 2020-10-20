@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b7721b2-0088-4e39-9d4d-7ef4307e5f82" name="Default Changelist" comment="" />
+    <list default="true" id="9b7721b2-0088-4e39-9d4d-7ef4307e5f82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../numpy/.idea/numpy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandas/.idea/pandas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/.idea/scipy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../函数案例/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图形编程/.idea/图形编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../图形编程/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../函数案例/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../函数案例/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../函数案例/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../函数案例/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../序列化/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../序列化/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../异常处理/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../异常处理/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据库操作/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../数据库操作/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件与文件夹操作/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件与文件夹操作/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../文件操作/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../文件操作/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../正则表达式/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../正则表达式/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +35,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aFZhrbzzc9OWK0j5ILuLyLeM78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
   </component>
   <component name="RunManager">
@@ -69,21 +95,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="772" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586333446051" />
-    <state width="664" height="195" key="GridCell.Tab.0.bottom" timestamp="1586333463241">
+    <state width="1515" height="195" key="GridCell.Tab.0.bottom" timestamp="1587292643687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="664" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586333463241" />
-    <state width="664" height="195" key="GridCell.Tab.0.center" timestamp="1586333463241">
+    <state width="1515" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587292643687" />
+    <state width="1515" height="195" key="GridCell.Tab.0.center" timestamp="1587292643687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="664" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586333463241" />
-    <state width="664" height="195" key="GridCell.Tab.0.left" timestamp="1586333463240">
+    <state width="1515" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587292643687" />
+    <state width="1515" height="195" key="GridCell.Tab.0.left" timestamp="1587292643687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="664" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586333463240" />
-    <state width="664" height="195" key="GridCell.Tab.0.right" timestamp="1586333463241">
+    <state width="1515" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587292643687" />
+    <state width="1515" height="195" key="GridCell.Tab.0.right" timestamp="1587292643687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="664" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586333463241" />
+    <state width="1515" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587292643687" />
   </component>
 </project>

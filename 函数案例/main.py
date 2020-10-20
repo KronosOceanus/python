@@ -162,6 +162,4 @@ def queen(n, s=()):     # n 为皇后的数量，s 为当前已经摆放的皇�
 
 result = [[(r, c) for r, c in enumerate(s)] for s in queen(8)]
 print(len(result))      #摆放方法数
-for r in result:
-    print(r)
 print(queen(8))
